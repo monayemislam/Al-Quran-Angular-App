@@ -1,0 +1,22 @@
+.dashboard-name{
+    color: #e5e7ea;
+  }
+  .left-sidebar-wrapper{
+      background-color: #293846 !important;
+      width: 250px;
+      height: 100%;
+      min-height: 670px;
+  }
+  .sidebar-item a{
+      color: #c5c5c5;
+  }
+  .sidebar-item a:hover{
+      background-color: #263441 !important;
+      color: #fff;
+  }
+  .left-sidebar-list{
+      background-color: #293846 !important;
+  }
+  .hide-text{
+    display: block;
+  }

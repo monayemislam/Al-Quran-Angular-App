@@ -1,0 +1,10 @@
+*{
+    padding: 0t;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+.content-wrapper{
+    background-color: #2E3E4E;
+    width: 100%;
+}
